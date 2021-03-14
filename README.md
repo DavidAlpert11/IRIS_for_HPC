@@ -1,6 +1,8 @@
 # IRIS (Incremental Random Inspection-roadmap Search)
 
-Linux / macOS [![Build Status](https://travis-ci.com/mengyu-fu/iris.svg?token=XPQsbGm4wg5EAgVzsSUR&branch=master)](https://travis-ci.com/mengyu-fu/iris)
+**Update:**
+
+* The code on branch ```ICRA2021``` is updated to reflect the changes in *Computationally-Efficient Roadmap-based Inspection Planning via Incremental Lazy  Search (ICRA 2021)*. Please checkout the branch for detailed instructions.
 
 This is code for paper [Toward Asymptotically-Optimal Inspection Planning via Efficient Near-Optimal Graph Search](https://arxiv.org/pdf/1907.00506.pdf).
 

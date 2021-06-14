@@ -1,6 +1,6 @@
 #ifndef PLANAR_PLANNER_H
 #define PLANAR_PLANNER_H
-
+#include <ompl/base/terminationconditions/IterationTerminationCondition.h>
 #include <ompl/base/spaces/RealVectorStateSpace.h>
 #include <ompl/base/SpaceInformation.h>
 #include <ompl/base/StateValidityChecker.h>

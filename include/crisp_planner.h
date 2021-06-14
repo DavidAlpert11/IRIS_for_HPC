@@ -9,9 +9,9 @@
 #include <utility>
 
 #include <boost/shared_ptr.hpp>
-
+#include <ompl/base/terminationconditions/IterationTerminationCondition.h>
 #include <ompl/control/SpaceInformation.h>
-#include <ompl/config.h>
+//#include <ompl/config.h>
 #include <ompl/base/PlannerData.h>
 #include <ompl/base/StateStorage.h>
 #include <ompl/base/goals/GoalState.h>
